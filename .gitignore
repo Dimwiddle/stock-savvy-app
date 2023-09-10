@@ -1,0 +1,7 @@
+node_modules/
+.vscode/
+src/doodle/
+dist/index.js
+documentation/commands.txt
+dist
+.env
