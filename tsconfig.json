@@ -11,5 +11,5 @@
     "ts-node": {
         "files": true
     },
-    "include": ["src/**/*.ts", "./global.d.ts"]
+    "include": ["src/**/*.ts", "./global.d.ts", "shortcuts.ts"]
 }
